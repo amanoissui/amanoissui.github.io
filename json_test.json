@@ -1,9 +1,9 @@
 [{
-    "title": "test",
-    "Descriotion": "テストだよ"
+    "queston": "問題文1",
+    "answer": "解答1"
 }  ,
 {
-    "title": "test2",
-    "Descriotion": "テスト2だよ"
+    "question": "問題文2",
+    "answer": "解答2"
 }]  
 
